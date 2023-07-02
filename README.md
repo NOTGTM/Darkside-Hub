@@ -1,2 +1,2 @@
-# Darkside-Hub
+# Darkside Hub
 The Roblox Hub.
